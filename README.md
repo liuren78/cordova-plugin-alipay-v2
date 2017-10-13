@@ -9,7 +9,7 @@
 
 ***
 ### 支持平台
-1. android （alipaySdk-2070725.jar）
+1. android （alipaySdk-2070922.jar）
 2. iOS
 ##### note：xcode版本须大于7.0
 
@@ -52,5 +52,4 @@
 xcode的URL Types上alipay的URL Schemes正确格式应为ali2xxxxxxxxxxxxxxx。2开头的这串数字是你的APP_ID，英文字母与数字之间没有任何符号！！！
 
 ##### 2. 沙箱环境
-在我个人的开发过程中确实是没有使用到沙箱环境，都是直接真实支付1分钱来做测试。
 如要使用沙箱环境，请自行参考官方文档https://docs.open.alipay.com/200/105311/
